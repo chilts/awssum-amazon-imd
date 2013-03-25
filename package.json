@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-imd",
-    "description" : "NodeJS module to talk to Amazon Instance MetaData (IMD).",
+    "description" : "AwsSum plugin for Amazon Instance MetaData (IMD).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-imd.js",
