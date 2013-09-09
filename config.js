@@ -21,6 +21,7 @@ module.exports = {
         'url' : 'http://docs.amazonwebservices.com/AWSEC2/latest/UserGuide/AESDG-chapter-instancedata.html',
         // request
         'path' : '/',
+        'args' : {},
         // response
         'extractBody' : 'string',
     },
